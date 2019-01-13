@@ -1,3 +1,4 @@
+package editor;
 
 import javafx.geometry.VPos;
 import javafx.scene.Group;

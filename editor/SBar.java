@@ -1,3 +1,4 @@
+package editor;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
@@ -67,7 +68,7 @@ public class SBar {
 
         /*
         if (newValue == scrollBar.getValue()) {
-            Yoffset = newValue - Editor.WINDOW_HEIGHT;
+            Yoffset = newValue - editor.Editor.WINDOW_HEIGHT;
             textRoot.setLayoutY(-Yoffset);
         }
         scrollBar.setValue(newValue);  */

@@ -1,7 +1,6 @@
 # Berkeley CS61B_Spring2016 Project2 - Editor
 
 This project is to build a basic **Text Editor** from scratch using *JavaFX*, which supports the following features. 
-> ("shortcut" means the control key on Windows and Linux, and the command key on Mac.)
 
 - **Cursor** The current position of the cursor is marked with a flashing vertical line.
 
